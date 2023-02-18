@@ -8,14 +8,25 @@ sıralanması olarak karşımıza çıkmaktadır. Yanıltıcı yorumların öne 
 problemin çözümünde e-ticaret sitesi ve satıcılar satışlarını arttırırken müşteriler ise satın alma yolculuğunu sorunsuz olarak tamamlayacaktır.
 
 reviewerID: Kullanıcı ID’si
+
 asin: Ürün ID’si
+
 reviewerName: Kullanıcı Adı
+
 helpful: Faydalı değerlendirme derecesi
+
 reviewText: Değerlendirme
+
 overall: Ürün rating’i
+
 summary: Değerlendirme özeti
+
 unixReviewTime: Değerlendirme zamanı
+
 reviewTime: Değerlendirme zamanı Raw
+
 day_diff: Değerlendirmeden itibaren geçen gün sayısı
+
 helpful_yes: Değerlendirmenin faydalı bulunma sayısı
+
 total_vote: Değerlendirmeye verilen oy sayısı
